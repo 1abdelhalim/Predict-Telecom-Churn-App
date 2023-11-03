@@ -1,1 +1,1 @@
-# Telecom-Churn-EDA
+# Telecom-Churn-Prediction
